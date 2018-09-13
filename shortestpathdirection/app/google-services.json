@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "444894432235",
+    "firebase_url": "https://mapsactivity-1519829269860.firebaseio.com",
+    "project_id": "mapsactivity-1519829269860",
+    "storage_bucket": "mapsactivity-1519829269860.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444894432235:android:c93912aa19a7f264",
+        "android_client_info": {
+          "package_name": "mapsactivity.inducesmile.com.mapsactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444894432235-o2s1plp4kc2uhnji0vq54l1poi9n3g2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVHdOnNOetut6LV8Zj4XTLp-A2YdBPYUc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
